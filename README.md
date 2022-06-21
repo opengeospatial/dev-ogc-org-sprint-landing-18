@@ -6,12 +6,12 @@ Publish to GitHub Pages with:
 
 Available at:
 
-`https://doublebyte1.github.io/sprint-web-16`
+`https://opengeospatial.github.io/dev-ogc-org-sprint-landing-17/`
 
 
 Add git submodule:
 
-`git submodule add -b gh-pages https://github.com/doublebyte1/sprint-web-16.git sprints/16`
+`git submodule add -b gh-pages https://github.com/opengeospatial/dev-ogc-org-sprint-landing-17.git sprints/17`
 
 Update git submodule:
 
